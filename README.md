@@ -193,9 +193,10 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the
-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
-# Contributing
-Your contributions are always welcome!
+Please have a look at
+* [Best Hacking Books](http://www.kalitut.com/2016/12/best-ethical-hacking-books.html)
+* [Best Reverse Engineering Books](http://www.kalitut.com/2017/01/Best-reverse-engineering-books.html)
+* [Best Machine learning Books](http://www.kalitut.com/2017/01/machine-learning-book.html)
+* [Best 5 books Programming Books](http://www.kalitut.com/2017/01/Top-Programming-Books.html)
+* [Best Java Books](http://www.kalitut.com/2017/01/Best-Java-Programming-Books.html)
