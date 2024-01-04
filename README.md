@@ -192,6 +192,9 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+2. [Mobile Malware Series Part 1: Leveraging Accessibility Features To Steal Crypto Wallet](https://8ksec.io/mobile-malware-analysis-part-1-crypto-wallet-stealer/) - how malicious apps use Android accessibility features to steal crypto wallet credentials
+3. [Mobile Malware Series Part 2: MasterFred](https://8ksec.io/mobile-malware-analysis-part-2-masterfred/) - the inner workings of MasterFred, a notorious malware exploiting Android Accessibility services to steal financial and social information
+4. [Mobile Malware Series Part 3: Pegasus](https://8ksec.io/mobile-malware-analysis-part-3-pegasus/) - exploration of Pegasus/Chryasor Malware
 
 
 Please have a look at
